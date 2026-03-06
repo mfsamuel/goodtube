@@ -28,9 +28,9 @@
 // @updateURL    https://github.com/mfsamuel/goodtube/raw/refs/heads/main/goodtube.user.js
 // @downloadURL  https://github.com/mfsamuel/goodtube/raw/refs/heads/main/goodtube.user.js
 
-// @match        *://m.youtube.com/*
-// @match        *://www.youtube.com/*
-// @match        *://youtube.com/*
+// @match        *://m.youtube.com/
+// @match        *://www.youtube.com/
+// @match        *://youtube.com/
 // @match        *://*.wikipedia.org/*
 // @run-at       document-start
 
