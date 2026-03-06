@@ -71,7 +71,7 @@
 		loadAttempts++;
 
 		// Get the GoodTube minified code
-		fetch('https://raw.githubusercontent.com/goodtube4u/goodtube/refs/heads/main/goodtube.min.js')
+		fetch('https://raw.githubusercontent.com/mfsamuel/goodtube/refs/heads/main/goodtube.min.js')
 			// Success
 			.then(response => response.text())
 			.then(data => {
